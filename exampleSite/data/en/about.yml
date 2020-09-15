@@ -3,7 +3,7 @@ about:
   enable: true
   title: About Us
   about_item:
-  - icon: icon-box
+  - icon: ti-home
     title: Community Minded
     content: We want to help connect you with the technology of today. Whether you
       are wanting to learn the newest tech, trying to navigate how to hook up your
